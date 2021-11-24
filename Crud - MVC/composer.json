@@ -1,0 +1,16 @@
+{
+    "name": "lopes/crud",
+    "description": "Cria\u0000\u0000o de CRUD usando estrutura MVCem php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thiago Lopes de Almeida",
+            "email": "fox_raposa64@hotmail.com"
+        }
+    ],
+    "require": {}
+}
